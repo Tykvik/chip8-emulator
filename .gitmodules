@@ -1,0 +1,3 @@
+[submodule "chip8-emulator-core"]
+	path = chip8-emulator-core
+	url = https://github.com/Tykvik/chip8-emulator-core.git
