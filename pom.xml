@@ -21,6 +21,12 @@
         </dependency>
     </dependencies>
 
+    <parent>
+        <groupId>com.github</groupId>
+        <artifactId>com.github.chip.emulator.core</artifactId>
+        <version>0.1</version>
+    </parent>
+
     <modules>
         <module>chip8-emulator-core</module>
     </modules>
